@@ -20,6 +20,6 @@ async function component() {
 
 document.body.appendChild(component());
 
-// WITH NO CONFIG, -rw-r--r--  1 jackdwyer  primarygroup   353K Apr 18 17:59 dist/main.js
+// WITH NO CONFIG, -rw-r--r--  1 jackdwyer  primarygroup   399K Apr 26 11:00 dist/assets/index.a1b7d6f9.js
 // Run `yarn run build`
-// Run `ls -lh dist/main.js` to get the above
+// Run `ls -lh dist/assets/index.a1b7d6f9.js` to get the above
